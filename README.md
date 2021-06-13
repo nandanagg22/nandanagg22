@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nandan
+- 👀 I’m interested in Building Distributed, scalable systems. 
+- 🌱 I’m currently learning Distributed architectures/system designs
+- 📚 I like reading about trending technical stuff
+- 📫 How to reach me - nandanagg22@gmail.com
